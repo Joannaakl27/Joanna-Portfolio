@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Work on Joanna</title>
+    <link>https://joannaakl27.github.io/joanna-portfolio/work/</link>
+    <description>Recent content in Work on Joanna</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://joannaakl27.github.io/joanna-portfolio/work/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Austin Animal Center Data Explorer</title>
+      <link>https://joannaakl27.github.io/joanna-portfolio/work/aac-explorer/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joannaakl27.github.io/joanna-portfolio/work/aac-explorer/</guid>
+      <description>The Austin Animal Center (AAC) Data Explorer is a web app developed for the Plotly Summer Community App Challenge. The objective of the challenge was to increase data awareness around shelter animals as well as to increase the shelter’s adoption rate.
+💽 Data sourcing The data used to build the app come from Kaggle. The data relative to the shelter intakes were directly sourced from the AAC API.
+🔮 Predictions The Predict page allows the app user to enter a series of parameters about a new animal intake.</description>
+    </item>
+    
+    <item>
+      <title>GameSwap</title>
+      <link>https://joannaakl27.github.io/joanna-portfolio/work/game-swap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joannaakl27.github.io/joanna-portfolio/work/game-swap/</guid>
+      <description>GameSwap is an online platform where users can swap or rent video games.</description>
+    </item>
+    
+    <item>
+      <title>Valued.</title>
+      <link>https://joannaakl27.github.io/joanna-portfolio/work/valued/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://joannaakl27.github.io/joanna-portfolio/work/valued/</guid>
+      <description>&amp;ldquo;Valued.&amp;rdquo; is a mobile app that helps users understand and track their dietary carbon footprint. Users log the dietary products they consumed during the day and the app will calculate and displays their relative carbon emissions. For the Carbon Footprint value to be more tangible, the application compares the dietary footprint to the equivalent days of power supply to an average household. &amp;ldquo;Valued.&amp;rdquo; also recommends a Fair Daily Food Emissions value and helps users track their daily emissions against it.</description>
+    </item>
+    
+  </channel>
+</rss>
